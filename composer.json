@@ -1,6 +1,6 @@
 {
 	"require": {
-		"illuminate   (slash)     database": "^6.8"
+		
 	},
 	"autoload": {
 		"classmap": [
